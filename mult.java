@@ -11,6 +11,13 @@ class Multiplication
 		
 	}
 
+	public int static div(int a,int b)
+	{
+		return a/b;
+	}
+
+
+
 
 
 

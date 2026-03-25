@@ -2,6 +2,7 @@ function add(a,b) {
 	return a+b;
 
 }
+console.log("add function added");
 
 
 function multiply(a,b) {
