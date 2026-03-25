@@ -15,7 +15,7 @@ class Multiplication
 
 	public int static mult(int a,int b)
 	{
-		return a*b;
+		return a*b*20;
 	}
 
 
