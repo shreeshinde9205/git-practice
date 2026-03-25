@@ -21,6 +21,11 @@ class Multiplication
 	{
 		return a/b;
 	}
+	public int static remainder(int a,int b)
+	{
+		return a%b;
+	}
+	
 	
 
 
