@@ -17,7 +17,11 @@ class Multiplication
 	{
 		return a*b;
 	}
-	console.log("shree");
+	public int static div(int a,int b)
+	{
+		return a/b;
+	}
+	
 
 
 
