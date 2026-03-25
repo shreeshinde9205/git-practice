@@ -17,6 +17,7 @@ class Multiplication
 	{
 		return a*b;
 	}
+	console.log("shree");
 
 
 
