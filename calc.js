@@ -3,4 +3,9 @@ function add(a,b) {
 
 }
 
-console.log((1,2));
+
+function multiply(a,b) {
+	return a*b;
+}
+console.log(add(1,2));
+console.log(multiply(1,2));
