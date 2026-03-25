@@ -25,6 +25,10 @@ class Multiplication
 	{
 		return a%b;
 	}
+	public int static ret(int a)
+	{
+		return a;
+	}
 	
 	
 
