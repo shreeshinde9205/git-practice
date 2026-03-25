@@ -13,6 +13,11 @@ class Multiplication
 		return a/b;
 	}
 
+	public int static mult(int a,int b)
+	{
+		return a*b;
+	}
+
 
 
 
